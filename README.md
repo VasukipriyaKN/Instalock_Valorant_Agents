@@ -1,5 +1,5 @@
 # **DISCLAIMER:**  
-This script is intended for educational and personal use only. It is not endorsed by or affiliated with Riot Games. Automating actions in games may violate Riot Games' terms of service, and using this script could result in penalties, including account bans or legal action. By using this script, you acknowledge that you are fully responsible for any consequences. The author of this script does not encourage or condone the violation of any terms of service and is not liable for any damages or penalties resulting from its use. Use this script at your own risk and discretion.
+This script is intended for educational and personal use only. It is not endorsed by or affiliated with the associated company. Automating actions in games may violate the associated company' terms of service, and using this script could result in penalties, including account bans or legal action. By using this script, you acknowledge that you are fully responsible for any consequences. The author of this script does not encourage or condone the violation of any terms of service and is not liable for any damages or penalties resulting from its use. Use this script at your own risk and discretion.
 
 ## SETUP
    a. Open cmd and install pyautogui library
